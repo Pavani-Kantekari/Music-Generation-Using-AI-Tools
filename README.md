@@ -1,4 +1,4 @@
-# Music-Generation-Using-AI-Tools
+# Music-Generation-Using-Zona
 
 **Prompt History** -
 1. Lyrics from the point of view of a streetlight that sees everything but can't say a word 
